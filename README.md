@@ -11,7 +11,7 @@ node app.js origin_html_file_path sample_html_file_path elementIdToFind
 note: the element Id to find is optional, in case that no id is passed i use the default id "make-everything-ok-button"
 
 Example
-node app.js ./public/sample-0-origing.html ./public/sample-1-evil-gemini.html make-everything-ok-button
+node app.js ./public/sample-0-origin.html ./public/sample-1-evil-gemini.html make-everything-ok-button
 
 Output:
 Matching Level: 5
